@@ -1,1 +1,1 @@
-使用命令行进行修改git文件
+git delete and new line;
