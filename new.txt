@@ -1,3 +1,4 @@
 hello
 test update inner
-newline other
+newline other 
+dev new
