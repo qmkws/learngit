@@ -1,4 +1,4 @@
 hello
 test update inner
 newline other 
-dev new master modification
+dev new master modification dev modification
